@@ -1,3 +1,5 @@
+An ecommerce web app built on MERN Stack
+
 # Live Demo
 
 Link:
